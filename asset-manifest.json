@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/kyronnyoro/static/css/main.a95e800f.css",
+    "main.js": "/kyronnyoro/static/js/main.eb871e6c.js",
+    "static/media/chicken.jpeg": "/kyronnyoro/static/media/chicken.42bc2aea448bd81cbcc3.jpeg",
+    "static/media/kyron.png": "/kyronnyoro/static/media/kyron.fc6e1bf4ceef8d5f8cff.png",
+    "static/media/Lockpass.jpeg": "/kyronnyoro/static/media/Lockpass.efe6a969b553efe5fd14.jpeg",
+    "static/media/TindogImage.png": "/kyronnyoro/static/media/TindogImage.4e5a87d8a7a948be72d7.png",
+    "static/media/k_resume.pdf": "/kyronnyoro/static/media/k_resume.70d36a51fd96df96681a.pdf",
+    "static/media/Arktikos.png": "/kyronnyoro/static/media/Arktikos.7d8151747371278d0513.png",
+    "static/media/Minerva.png": "/kyronnyoro/static/media/Minerva.9dd1668288c9b0741497.png",
+    "index.html": "/kyronnyoro/index.html",
+    "main.a95e800f.css.map": "/kyronnyoro/static/css/main.a95e800f.css.map",
+    "main.eb871e6c.js.map": "/kyronnyoro/static/js/main.eb871e6c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a95e800f.css",
+    "static/js/main.eb871e6c.js"
+  ]
+}
