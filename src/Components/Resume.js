@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { BsDownload } from "react-icons/bs";
-import pdf from "../Resume.pdf";
+import k_resume from "../k_resume.pdf";
 import { Document, Page, pdfjs } from 'react-pdf';
 import 'react-pdf/dist/esm/Page/AnnotationLayer.css';
 import 'react-pdf/dist/esm/Page/TextLayer.css';
@@ -19,11 +19,11 @@ const Resume = () => {
 
   return (
     <div className='ResumePage'>
-      <Document file={pdf} className="resumeview">
+      <Document file={k_resume} className="resumeview">
           <Page pageNumber= {1} scale={wid<700 ? ( wid>475? 0.7: 0.5): 1}/>
       </Document>
 
-      <a href={pdf} target='_blank' download="Devansh's Resume">
+      <a href={k_resume} target='_blank' download="Kyron's Resume">
         <button className='downloadCV' type='button'>
           <h3><BsDownload/>&nbsp; Download CV</h3>
         </button>

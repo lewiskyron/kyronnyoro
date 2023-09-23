@@ -27,7 +27,7 @@ body{
 
 b{
   font-weight: 900;
-  color: #9067C6;
+  color: #0598ce;
 }
 
 /* Scrollbar */
@@ -90,7 +90,7 @@ b{
   font-size: 32px;
   letter-spacing: 2px;
   padding-left: 7%;
-  color: #9067C6;
+  color: #0598ce;
   display: flex;
   align-items: center;
   text-align: center;
@@ -303,7 +303,11 @@ b{
 }
 
 .Avatar{
-  width: 280px;
+  width: 500px;
+  padding-bottom: 270px;
+
+
+  
 }
 
 @media(max-width:900px){
